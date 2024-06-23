@@ -1,0 +1,3 @@
+
+		step();
+persistent = false;
